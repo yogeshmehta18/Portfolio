@@ -80,7 +80,7 @@ const Hero = () => {
 
           <div style={{ flex: '1 1 320px', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
             <div className="glass-panel" style={{ padding: '0.8rem', borderRadius: '50%', width: 'clamp(260px, 24vw, 380px)', height: 'clamp(260px, 24vw, 380px)', display: 'flex', alignItems: 'center', justifyContent: 'center', overflow: 'hidden', boxShadow: '0 0 50px var(--glass-glow)', animation: 'float 12s infinite ease-in-out' }}>
-              <img src="/My Photo.jpeg" alt="Yogesh Sharma" style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '50%' }} />
+              <img src="/MyPhoto.jpeg" alt="Yogesh Sharma" style={{ width: '100%', height: '100%', objectFit: 'cover', borderRadius: '50%' }} />
             </div>
           </div>
 
